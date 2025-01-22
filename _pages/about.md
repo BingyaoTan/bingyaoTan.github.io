@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is my website! I am an optical engineer, scientist and inventor
+Welcome to my website!
+I am currently a Senior research fellow at Singapore Eye Research Institute, and I hold an assistant professor position at Duke-NUS Medical School.
+
 
 Bingyao Tan's Personal Webiste
 ======
