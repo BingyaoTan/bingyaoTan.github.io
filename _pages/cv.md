@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, University of Waterloo, 2017
+* B.S. in Science, Tianjin Univeristy of Tech, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-current 
+  * Duke-NUS Medical School
+  * Assistant Professor
+  
+* 2023-current
+  * Singapore Eye Research Institute
+  * Senior Research Fellow
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-2023
+* Nanyang Technological University
+  * Research Fellow
+ 
+* 2018-2020
+* Singapore Eye Research Institute
+    * Research Fellow
   
 Skills
 ======
