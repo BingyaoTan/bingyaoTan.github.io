@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Welcome to my website!
-I am currently a Senior research fellow at Singapore Eye Research Institute, and I hold an assistant professor position at Duke-NUS Medical School.
+I am currently a Senior Research Fellow at Singapore Eye Research Institute, and I hold an Assistant Professor position at Duke-NUS Medical School.
 
 I am a long distance runner, and I have finished 7 marathons (Toronto 2015, Montreal 2016, Ottawa 2016, Singapore 2018, Tokyo (major) 2023, Wuxi 2024, and Berlin (Major) 2024). My personal best is 3:18:16 in Berlin.
 
@@ -31,7 +31,9 @@ News
   2024-7: Our paper, "Light-evoked deformations in rod photoreceptors, pigment epithelium, and subretinal space revealed by prolonged and multilayered optoretinography", has been published in Nature Communications! 
   [Read it here](https://www.nature.com/articles/s41467-024-49014-5).<br/><img src='/images/ORG_NC.png'>
 
-  2024-1 Honored to be among the finalist of Pascal Rol Best Paper Award, SPIE BiOS, San Francisco, CA, USA, 2024
+  2024-4: invited talk, presented our work at Optica Biophotonics Congress: Biomedical Optics, Ford Lauderdale, FL, USA
+  
+  2024-1 Honored to be among the finalists of Pascal Rol Best Paper Award, SPIE BiOS, San Francisco, CA, USA, 2024
   
   2024-1: Our paper, "Ocular microvascular complications in diabetic retinopathy: insights from machine learning", has been published on BMJ DRC. Congrats Thiara for her first publication! 
   [Read it here](https://drc.bmj.com/content/12/1/e003758).<br/><img src='/images/thiara.png'>
