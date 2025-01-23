@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bingyao Tan's Personal Page"
+title: "Welcome to my website!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,7 @@ redirect_from:
 
 Welcome to my website!
 I am currently a Senior research fellow at Singapore Eye Research Institute, and I hold an assistant professor position at Duke-NUS Medical School.
+I am a long distance runner, and I have finished 7 marathons (Toronto 2015, Montreal 2016, Ottawa 2016, Singapore 2018, Tokyo (major) 2023, Wuxi 2024, and Berlin (Major) 2024). My personal best is 3:18:16 in Berlin.
 
 Bingyao Tan's Personal Webiste
 ======
