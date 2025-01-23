@@ -33,3 +33,5 @@ News
 
   2024-1 Honored to be among the finalist of Pascal Rol Best Paper Award, SPIE BiOS, San Francisco, CA, USA, 2024
   
+  2024-1: Our paper, "Ocular microvascular complications in diabetic retinopathy: insights from machine learning", has been published on BMJ DRC 
+  [Read it here](https://drc.bmj.com/content/12/1/e003758).<br/><img src='/images/curvature.png'>
