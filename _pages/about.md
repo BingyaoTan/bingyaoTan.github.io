@@ -17,9 +17,12 @@ Research Interest
 I am interested in advanced ocular imaging technologies, mathematical modeling of ocular vasculature, and physics-informed/physiology-informed generative AI.
 
 
-News
+Selected News
 ======
- 2024-12: Honored to receive "Outstanding Young Researcher" from Singapore Eye Research Institute!
+  2025-01: Our paper, "Corneal Layer Segmentation in Healthy and Pathological Eyes:A Joint Super-Resolution Generative Adversarial Network and Adaptive Graph Theory Approach3", has been published on TVST! Congrats to Khin for her paper publication with us. 
+  <br/><img src='/images/khin.png'>
+  
+  2024-12: Honored to receive "Outstanding Young Researcher" from Singapore Eye Research Institute!
 
   2024-12: Our paper, "Distortion-Corrected Posterior Ocular Shape in Myopic Eyes Assessed by Ultrawide OCT Detects Deformations Associated With Vision-Threatening Changes", has been published on IOVS! 
   [Read it here](https://iovs.arvojournals.org/article.aspx?articleid=2802226&resultClick=1).<br/><img src='/images/curvature.png'>
