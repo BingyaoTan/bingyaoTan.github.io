@@ -208,6 +208,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  personal_adventure:
+    output: true
+    permalink: /:collection/:path/
 #  talks:
  #   output: true
   #  permalink: /:collection/:path/
@@ -255,7 +258,7 @@ defaults:
    # _personal adventure
   - scope:
       path: ""
-      type: personal adventure
+      type: personal_adventure
     values:
       layout: single
       author_profile: true
