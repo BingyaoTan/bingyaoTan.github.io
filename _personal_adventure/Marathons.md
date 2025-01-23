@@ -1,5 +1,5 @@
 ---
 title:"Marathons"
-excerpt: Berlin Marathon
-collection: personal_adventure
+excerpt:Berlin Marathon
+collection:personal_adventure
 ---
