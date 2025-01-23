@@ -265,6 +265,15 @@ defaults:
       author_profile: True
       share: True
       comment: false
+  # _portfolio
+  - scope:
+      path: ""
+      type: personal_adventure
+    values:
+      layout: single
+      author_profile: True
+      share: True
+      comment: false
   # _talks
   - scope:
       path: ""
