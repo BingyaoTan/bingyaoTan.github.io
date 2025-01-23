@@ -23,10 +23,10 @@ Work experience
   * Singapore Eye Research Institute
 
 * 2020-2023, Research Fellow
-* Nanyang Technological University
+  * Nanyang Technological University
  
 * 2018-2020, Research Fellow
-* Singapore Eye Research Institute
+  * Singapore Eye Research Institute
   
 Community Service
 ======
