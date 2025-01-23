@@ -26,8 +26,8 @@ author:
   pronouns         : #"he/his"  
   bio              : "Optical engineer | scientist | inventor"
   location         : "Singapore"
-  employer         : "Singapore Eye Research Institute"
-  employer         : "Duke-NUS Medical School"
+  employer         :   - "Singapore Eye Research Institute"
+                       - "Duke-NUS Medical School"
   uri              : # URL
   email            : "bingyao(dot)tan(at)duke-nus(dot)edu(dot)sg" 
 
