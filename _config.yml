@@ -12,7 +12,7 @@ title                    : "Bingyao Tan/ Dr"
 title_separator          : "-"
 name                     : &name "Bingyao"
 description              : &description "I am an optical engineer, scientist and inventor working on translational research"
-url                      : "bingyaotan.github.io"
+url                      : #"bingyaotan.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bingyaotan.github.io"
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/tanbingyao/
+  linkedin         : # https://www.linkedin.com/in/tanbingyao/
 
 
 # Publication Category - The following the list of publication categories and their headings
