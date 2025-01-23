@@ -16,17 +16,13 @@ Education
 
 Work experience
 ======
-* 2024-current, Assistant Professor
-  * Duke-NUS Medical School
+* 2024-current, Assistant Professor, Duke-NUS Medical School
   
-* 2023-current, Senior Research Fellow
-  * Singapore Eye Research Institute
+* 2023-current, Senior Research Fellow, Singapore Eye Research Institute
 
-* 2020-2023, Research Fellow
-  * Nanyang Technological University
+* 2020-2023, Research Fellow, Nanyang Technological University
  
-* 2018-2020, Research Fellow
-  * Singapore Eye Research Institute
+* 2018-2020, Research Fellow, Singapore Eye Research Institute
   
 Community Service
 ======
@@ -38,11 +34,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+#Talks
+#======
+ # <ul>{% for post in site.talks reversed %}
+  #  {% include archive-single-talk-cv.html  %}
+  #{% endfor %}</ul>
   
 Teaching
 ======
