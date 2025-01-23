@@ -1,5 +1,5 @@
 ---
 title: "Exhibition Exposure - Thousand Nights"
-excerpt: 
+excerpt: test
 collection: hobbies
 ---
