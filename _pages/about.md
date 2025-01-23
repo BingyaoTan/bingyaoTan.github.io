@@ -11,7 +11,12 @@ Welcome to my website!
 I am currently a Senior research fellow at Singapore Eye Research Institute, and I hold an assistant professor position at Duke-NUS Medical School.
 I am a long distance runner, and I have finished 7 marathons (Toronto 2015, Montreal 2016, Ottawa 2016, Singapore 2018, Tokyo (major) 2023, Wuxi 2024, and Berlin (Major) 2024). My personal best is 3:18:16 in Berlin.
 
-Bingyao Tan's Personal Webiste
+Research Interest
+======
+I am interested in advanced ocular imaging technologies, mathematical modeling of ocular vasculature, and physics-informed/physiology-informed generative AI.
+
+
+News
 ======
  2024-12: Honored to receive "Outstanding Young Researcher" from Singapore Eye Research Institute!
 
@@ -25,6 +30,3 @@ Bingyao Tan's Personal Webiste
   2024-7: Our paper, "Light-evoked deformations in rod photoreceptors, pigment epithelium, and subretinal space revealed by prolonged and multilayered optoretinography", has been published in Nature Communications! 
   [Read it here](https://www.nature.com/articles/s41467-024-49014-5).<br/><img src='/images/ORG_NC.png'>
 
-
-Getting started
-======
