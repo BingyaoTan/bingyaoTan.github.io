@@ -18,7 +18,7 @@ I am interested in advanced ocular imaging technologies, mathematical modeling o
 
 Selected News
 ======
-  2025-01: Our paper, "Corneal Layer Segmentation in Healthy and Pathological Eyes:A Joint Super-Resolution Generative Adversarial Network and Adaptive Graph Theory Approach3", has been accepted on TVST! Congrats to Khin for her paper publication with us. 
+  2025-01: Our paper, "Corneal Layer Segmentation in Healthy and Pathological Eyes:A Joint Super-Resolution Generative Adversarial Network and Adaptive Graph Theory Approach", has been accepted on TVST! Congrats to Khin for her paper publication with us. 
   <br/><img src='/images/khin_TVST.png'>
   
   2024-12: Honored to receive "Outstanding Young Researcher" from Singapore Eye Research Institute!
