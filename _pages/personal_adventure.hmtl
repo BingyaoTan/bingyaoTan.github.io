@@ -5,6 +5,7 @@ permalink: /personal_adventure/
 author_profile: true
 ---
 
-{%include base path g%}
+{% include base_path %} <!-- Ensure this file exists -->
 {% for post in site.personal_adventure %}
-{% include archive-single.html %}{% endfor %}
+  {% include archive-single.html post=post %} <!-- Pass the 'post' variable correctly -->
+{% endfor %}
