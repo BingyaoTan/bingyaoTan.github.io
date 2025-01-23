@@ -1,6 +1,9 @@
 ---
 title: 2024
 excerpt: |
+
+  2024-12: (invited plenary talk) presented our work on “Belt-Road" & "BRICS" Forum for Advanced Photonics, Zhejiang University
+  
   2024-12: Honored to receive "Outstanding Young Researcher" from Singapore Eye Research Institute!
 
   2024-12: Our paper, "Distortion-Corrected Posterior Ocular Shape in Myopic Eyes Assessed by Ultrawide OCT Detects Deformations Associated With Vision-Threatening Changes", has been published on IOVS! 
