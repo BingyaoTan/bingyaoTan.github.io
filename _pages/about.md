@@ -31,3 +31,5 @@ News
   2024-7: Our paper, "Light-evoked deformations in rod photoreceptors, pigment epithelium, and subretinal space revealed by prolonged and multilayered optoretinography", has been published in Nature Communications! 
   [Read it here](https://www.nature.com/articles/s41467-024-49014-5).<br/><img src='/images/ORG_NC.png'>
 
+  2024-1 Honored to be among the finalist of Pascal Rol Best Paper Award, SPIE BiOS, San Francisco, CA, USA, 2024
+  
