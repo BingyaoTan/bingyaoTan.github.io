@@ -1,9 +1,10 @@
 ---
-layout:archive
-title:"Personal_Adventure"
+layout: archive
+title: "Personal Adventure"
 permalink: /personal_adventure/
-author profile:true
+author_profile: true
 ---
+
 {%include base path g%}
 {% for post in site.personal_adventure %}
 {% include archive-single.html %}{% endfor %}
