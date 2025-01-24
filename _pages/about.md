@@ -9,8 +9,6 @@ redirect_from:
 
 I am currently a Senior Research Fellow at Singapore Eye Research Institute, and I hold an Assistant Professor position at Duke-NUS Medical School. 
 
-I am a long distance runner, and I have finished 7 marathons (Toronto 2015, Montreal 2016, Ottawa 2016, Singapore 2018, Tokyo (major) 2023, Wuxi 2024, and Berlin (major) 2024). My personal best is 3:18:16 in Berlin.
-
 Research Interest
 ======
 I am interested in advanced ocular imaging technologies, mathematical modeling of ocular vasculature, and physics-informed/physiology-informed generative AI. I hold multiple and am applying for more patents in the field of medical imaging instruments, hoping these techs can accelebrate disease disgnosis and management. 
