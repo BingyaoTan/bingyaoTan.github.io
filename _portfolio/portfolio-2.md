@@ -1,5 +1,9 @@
 ---
 title: 2024
+permalink: portfolio/portfolio-2/
+author_profile: true
+redirect_to: /News/
+output: false
 excerpt: |
 
   2024-12: (invited plenary talk) presented our work on “Belt-Road" & "BRICS" Forum for Advanced Photonics, Zhejiang University
