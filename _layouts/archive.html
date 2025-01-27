@@ -17,8 +17,22 @@ layout: default
 
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title">{{ page.title }}</h1>
+      {% if page.title == "2018 and before" %}
+        <!-- Render as plain text if the page title is "2018 and before" -->
+        <span class="disabled-link page__title">{{ page.title }}</span>
+      {% else %}
+        <h1 class="page__title">{{ page.title }}</h1>
+      {% endif %}
     {% endunless %}
     {{ content }}
   </div>
 </div>
+
+<!-- Optional CSS for disabling the "2018 and before" link -->
+<style>
+.disabled-link {
+  color: #999;
+  cursor: not-allowed;
+  text-decoration: none;
+}
+</style>
