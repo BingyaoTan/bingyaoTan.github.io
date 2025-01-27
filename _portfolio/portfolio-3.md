@@ -1,6 +1,10 @@
 
 ---
 title: 2023
+permalink: portfolio/portfolio-3/
+author_profile: true
+redirect_to: /News/
+output: false
 excerpt: |
   2023-10: I rejoin Singapore Eye Research Institute as Senior Research Fellow I.
 
