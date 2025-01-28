@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Bingyao Tan/ Dr"
-title_separator          : "-"
+title                    : "Bingyao Tan 谭炳尧"
+title_separator          : "-Dr"
 name                     : "Bingyao"
 description              : &description "I am an optical engineer, physicist and inventor working on translational research"
 url                      : "https://bingyaotan.github.io"
