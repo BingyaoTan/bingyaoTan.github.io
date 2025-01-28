@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physics, University of Waterloo, 2017
-* B.S. in Science, Tianjin Univeristy of Tech, 2012
+* Ph.D. in Physics, University of Waterloo, 2017
+* Bachelor of Science, Tianjin Univeristy of Tech, 2012
 
 Work experience
 ======
