@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Bingyao Tan 谭炳尧"
+title                    : "Bingyao Tan"
 title_separator          : "-Dr"
 name                     : "Bingyao"
 description              : &description "I am an optical engineer, physicist and inventor working on translational research"
@@ -22,7 +22,7 @@ repository               : "bingyaotan.github.io"
 author:
   # Biographic information
   avatar           : "DSC_1823_resize.jpg"
-  name             : "Bingyao Tan"
+  name             : "Bingyao Tan 谭炳尧"
   pronouns         : #"he/his"  
   bio              : #""
   location         : "Singapore"
